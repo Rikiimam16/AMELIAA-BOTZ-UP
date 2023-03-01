@@ -50,72 +50,72 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727401', 'Amelia-MD', true],
+['6289512831977', 'RikiImamss', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
-global.mods = ['6283863727401']
-global.prems = ['6283863727401']
-global.nomorbot = '6283863727740'
-global.nameown = 'PutraModz'
-global.nomorown = '6283863727401'
-global.nomorown1 = '6282214729677'
-global.nomorown2 = '6282214729677'
-global.nomorwa = '082214729677'
+global.mods = ['6289512831977']
+global.prems = ['6289512831977']
+global.nomorbot = '6283845051018'
+global.nameown = 'RikiImamss'
+global.nomorown = '6289512831977'
+global.nomorown1 = '6289512831977'
+global.nomorown2 = '6289512831977'
+global.nomorwa = '089512831977'
 global.limitawal = {
 
     premium: "Infinity",
 
-    free: 15
+    free: 100
 
 }
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = 'Amelia MD'//nama group kalian
-global.author = 'PutraModz' //ganti aja cuyyy
-global.namebot = '​Amelia-Md' //nama bot luh
-global.wm = '© Amelia-Md' //ganti aja
+global.gcname = 'RiksBotz'//nama group kalian
+global.author = 'RikiImamss' //ganti aja cuyyy
+global.namebot = 'RiksBotz' //nama bot luh
+global.wm = '© RiksBotz' //ganti aja
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
-global.wm = 'Amelia-Md ' //wm nyaa kocak
+global.wm = 'RiksBotz-Md ' //wm nyaa kocak
 global.watermark = wm //bebas
-global.wm2 = 'PutraModz' //ganti ajaa
-global.wm3 = 'Amelia Botz by PutraModz' // ganti jugaa
+global.wm2 = 'RiksBotz' //ganti ajaa
+global.wm3 = 'RiksBotz Botz by RikiImamss' // ganti jugaa
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `Amelia-Md | PutraModz` //ganti aja
-global.stickpack = 'Amelia-Modz' //ganti 
-global.stickauth = `© Amelia-Md` //gantii 
+global.titlebot = `RiksBotz | RikiImamss` //ganti aja
+global.stickpack = 'RiksBotz' //ganti 
+global.stickauth = `© RiksBotz` //gantii 
 global.week = `${week} ${date}` //Gak usah
 global.wibb = `${wktuwib}` // Gak usah 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Amelia Putri septiany' //ganti 
-global.nameown2 = 'PutraModz' //ganti 
+global.nameown1= 'Riks' //ganti 
+global.nameown2 = 'RikiImamss' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
-global.lynk = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'//ganti jadi link gc luh
+global.lynk = 'https://chat.whatsapp.com/FR5HW2bZc830jDhnwZtrXh'//ganti jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r' //ganti jadi ig mu
-global.sgh = 'https://github.com/Lucife-Putra' //github
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
-global.gcwangsaf = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //Group wa juga 
-global.fakeyt = 'https://youtu.be/dTNrtQagzmc' //Yt jika punya
+global.sig = 'https://instagram.com/rikiimam16' //ganti jadi ig mu
+global.sgh = 'https://github.com/rikiimam16' //github
+global.sgc = 'https://chat.whatsapp.com/FR5HW2bZc830jDhnwZtrXh' //group whatsapp
+global.gcwangsaf = 'https://chat.whatsapp.com/FR5HW2bZc830jDhnwZtrXh' //Group wa juga 
+global.fakeyt = 'https://youtu.be/rikiimamuddin' //Yt jika punya
 global.sdc = '-' //discord klo ga punya ga usah biarin aja
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://youtube.com/@Putra_Modz_' //yt klo punya 
-global.wame = 'https://api.whatsapp.com/send?phone=+6283863727401' //Tautan Wa Kalian
+global.snh = 'https://youtube.com/@rikiimamuddin' //yt klo punya 
+global.wame = 'https://api.whatsapp.com/send?phone=+6289512831977' //Tautan Wa Kalian
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '083864727401' //Isi aja klo punya 
-global.povo = '-' //Isi Aja klo punya 
-global.pgopay = '082214729677' //Isi aja klo punya 
+global.pdana = '089512831977' //Isi aja klo punya 
+global.povo = '089512831977' //Isi Aja klo punya 
+global.pgopay = '089512831977' //Isi aja klo punya 
 global.plinkaja = '-' //link aja,isi Klo punya
-global.ppulsa = '083863727401' //Isi aja klo punya 
-global.ppulsa2 = '082214729677' //Isi aja klo punya 
+global.ppulsa = '089512831977' //Isi aja klo punya 
+global.ppulsa2 = '089512831977' //Isi aja klo punya 
 global.psaweria = 'https://telegra.ph/file/98338a583efeb3d34a70b.jpg' //Ganti aja ini Link gambar QR
 
 //bebas cuyyy yg atas mahh 
